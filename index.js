@@ -22,7 +22,7 @@ while (!exit) {
 }
 
 function printResult() {
-  let r0 = rand(lists[0].length-1)q 
+  let r0 = rand(lists[0].length-1) 
   let r1 = rand(lists[0].length-1)
   let r2 = rand(lists[0].length-1)
   let r3 = rand(lists[0].length-1)
